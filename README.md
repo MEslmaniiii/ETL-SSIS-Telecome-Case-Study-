@@ -17,9 +17,14 @@ Signalling data describes the subscriber network activities and interaction. Sub
 The network vendor collects the subscriber data in real-time and bulk every 5 min activity in one fill and push it to landing servers.
  
 Resources:
-Mobile network technologies GSM/GPRS/UMTS/LTE: https://youtu.be/9FSDcDlVGP4
+Mobile network technologies
+
+GSM/GPRS/UMTS/LTE: https://youtu.be/9FSDcDlVGP4
+
 GSM Architecture https://youtu.be/6qR102lcXoY
+
 Making a Voice Call in 4G https://youtu.be/AdmaSwdTDmI
+
 GSM Authentication https://youtu.be/FN5APZQBGJ0
 ![Screenshot (80)](https://user-images.githubusercontent.com/105324794/197868439-87cd4368-d896-490c-9329-a51976704a0d.png)
 ![Screenshot (81)](https://user-images.githubusercontent.com/105324794/197868476-d5c73d1f-9880-45cb-9521-0030bb69efd4.png)
